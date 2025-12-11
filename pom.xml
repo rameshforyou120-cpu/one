@@ -41,8 +41,6 @@
             <url>http://repo1.maven.org/maven2</url>
         </pluginRepository>
     </pluginRepositories>
-
-    <!-- 🔽 ADD THIS BLOCK 🔽 -->
     <build>
         <plugins>
             <plugin>
